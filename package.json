@@ -1,0 +1,33 @@
+{
+  "name": "appresource",
+  "version": "0.1.0",
+  "description": "Check if a string is LRC",
+  "license": "MIT",
+  "repository": "chentsulin/appresource",
+  "author": {
+    "name": "C. T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "https://github.com/chentsulin"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/chentsulin/appresource/issues"
+  },
+  "homepage": "https://github.com/chentsulin/appresource",
+  "keywords": [
+    "express",
+    "resource",
+    "routes"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
