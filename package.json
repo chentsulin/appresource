@@ -1,7 +1,7 @@
 {
   "name": "appresource",
-  "version": "0.1.0",
-  "description": "Check if a string is LRC",
+  "version": "0.1.1",
+  "description": "Rails, Laravel -like resource routes for express",
   "license": "MIT",
   "repository": "chentsulin/appresource",
   "author": {
