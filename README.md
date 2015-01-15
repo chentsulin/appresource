@@ -1,4 +1,4 @@
-# appresource[![Build Status](https://travis-ci.org/chentsulin/appresource.svg)](https://travis-ci.org/chentsulin/appresource)
+# appresource [![Build Status](https://travis-ci.org/chentsulin/appresource.svg)](https://travis-ci.org/chentsulin/appresource)
 
 > Rails, Laravel -like resource routes for [express][1]
 
