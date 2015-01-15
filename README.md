@@ -1,9 +1,12 @@
-# appresource
-Rails, Laravel -like resource routes for [express][1]
+# appresource[![Build Status](https://travis-ci.org/chentsulin/appresource.svg)](https://travis-ci.org/chentsulin/appresource)
+
+> Rails, Laravel -like resource routes for [express][1]
 
 ## Install
 
-
+```sh
+$ npm install appresource
+```
 
 ## Usage
 
