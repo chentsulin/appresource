@@ -1,4 +1,4 @@
-# appresouce
+# appresource
 Rails, Laravel -like resource routes for [express][1]
 
 ## Install
@@ -18,7 +18,7 @@ appresource('/users', UserController);
 
 ```
 
-Or use on route
+Or use on `express.Router`
 
 ```js
 var router = express.Router();
@@ -31,7 +31,7 @@ routerresource('/users', UserController);
 
 ```
 
-UserController
+UserController.js:
 
 ```js
 module.exports = {
