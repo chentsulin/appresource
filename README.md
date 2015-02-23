@@ -1,6 +1,9 @@
-# appresource [![Build Status](https://travis-ci.org/chentsulin/appresource.svg)](https://travis-ci.org/chentsulin/appresource)
+# appresource
 
-> Rails, Laravel -like resource routes for [express][1]
+[![NPM version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+
+> Rails, Laravel -like resource routes for [express][express-url]
 
 ## Install
 
@@ -52,4 +55,8 @@ module.exports = {
 ## License
 MIT © [C. T. Lin](https://github.com/chentsulin)
 
-  [1]: http://expressjs.com/
+[npm-image]: https://img.shields.io/npm/v/appresource.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/appresource
+[travis-image]: https://travis-ci.org/chentsulin/appresource.svg
+[travis-url]: https://travis-ci.org/chentsulin/appresource
+[express-url]: http://expressjs.com/
