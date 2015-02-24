@@ -2,6 +2,7 @@
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
+[![Test coverage][coveralls-image]][coveralls-url]
 
 > Rails, Laravel -like resource routes for [express][express-url]
 
@@ -59,4 +60,6 @@ MIT © [C. T. Lin](https://github.com/chentsulin)
 [npm-url]: https://npmjs.org/package/appresource
 [travis-image]: https://travis-ci.org/chentsulin/appresource.svg
 [travis-url]: https://travis-ci.org/chentsulin/appresource
+[coveralls-image]: https://img.shields.io/coveralls/chentsulin/appresource.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/chentsulin/appresource
 [express-url]: http://expressjs.com/

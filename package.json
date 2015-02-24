@@ -17,7 +17,8 @@
     "index.js"
   ],
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test-travis": "node node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
   },
   "bugs": {
     "url": "https://github.com/chentsulin/appresource/issues"
@@ -31,6 +32,7 @@
   "devDependencies": {
     "chai": "^1.10.0",
     "express": "^4.11.0",
+    "istanbul": "^0.3.6",
     "mocha": "*",
     "sinon": "^1.12.2"
   }
