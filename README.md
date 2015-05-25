@@ -2,6 +2,7 @@
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
+[![Quality][codeclimate-image]][codeclimate-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Dependency Status][david_img]][david_site]
 
@@ -61,6 +62,8 @@ MIT © [C. T. Lin](https://github.com/chentsulin)
 [npm-url]: https://npmjs.org/package/appresource
 [travis-image]: https://travis-ci.org/chentsulin/appresource.svg
 [travis-url]: https://travis-ci.org/chentsulin/appresource
+[codeclimate-image]: https://img.shields.io/codeclimate/github/chentsulin/appresource.svg?style=flat-square
+[codeclimate-url]: https://codeclimate.com/github/chentsulin/appresource
 [coveralls-image]: https://img.shields.io/coveralls/chentsulin/appresource.svg?style=flat-square
 [coveralls-url]: https://coveralls.io/r/chentsulin/appresource
 [david_img]: https://img.shields.io/david/chentsulin/require-conf.svg
